@@ -6,3 +6,9 @@
 
 
 자바 절대 경로: /usr/lib/jvm/java-11-openjdk-11.0.19.0.7-1.amzn2.0.1.x86_64/bin/java
+
+
+환경 변수 경로: /etc/profile (수정 시 sudo vi /etc/profile)
+
+
+프로젝트 파일 경로: /apps
