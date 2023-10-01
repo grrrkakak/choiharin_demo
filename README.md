@@ -11,4 +11,4 @@
 환경 변수 경로: /etc/profile (수정 시 sudo vi /etc/profile)
 
 
-프로젝트 파일 경로: /apps
+프로젝트 파일 경로: /home/choiharin_app
