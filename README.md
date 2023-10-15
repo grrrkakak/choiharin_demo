@@ -3,11 +3,13 @@
 
 
 ## Algorithm
-<img width="525" alt="choiharin algorithm v2" src="https://github.com/grrrkakak/choiharin/assets/99243305/55fff788-a6e9-488d-84e9-f94ddfd9301a">
+<img width="525" alt="choiharin algorithm v2" src="https://github.com/grrrkakak/choiharin/assets/99243305/96bebb52-e961-4d71-b956-79ab4f3bdda3">
+
 
 
 ## Skill
-<img width="482" alt="choiharin tool" src="https://github.com/grrrkakak/choiharin/assets/99243305/2f3b0109-a9c6-4cf4-8452-c8a442500171">
+<img width="482" alt="choiharin tool" src="https://github.com/grrrkakak/choiharin/assets/99243305/2e5549bd-b198-4d7a-8b38-1096e526c0ed">
+
 
 
 ## AWS EC2 Server
